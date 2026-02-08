@@ -1,5 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/d.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/d)
+[![Github Action (master)](https://github.com/cyber-dojo-languages/d/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/d/actions)
 
-## image_name="cyberdojofoundation/dee"
+## display_name="D 13.3.0"
+## image_name="ghcr.io/cyber-dojo-languages/dee"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

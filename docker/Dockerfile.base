@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/ubuntu-build-essential-18-04:a6578e6
+FROM ghcr.io/cyber-dojo-languages/ubuntu-build-essential-24-04:8ab6c08
 LABEL maintainer=jon@jaggersoft.com
 
 RUN apt-get install --yes gdc
