@@ -1,4 +1,5 @@
-FROM ghcr.io/cyber-dojo-languages/ubuntu-build-essential-24-04:594a71f
+FROM ghcr.io/cyber-dojo-languages/ubuntu-build-essential-26-04:56c28d7
 LABEL maintainer=jon@jaggersoft.com
 
-RUN apt-get install --yes gdc
+COPY install.sh .
+RUN ./install.sh && rm ./install.sh
